@@ -13,7 +13,7 @@
 // ThinkPHP公共入口文件
 //----------------------------------
 
-// 记录开始运行时间
+// 记录开始运行时间1
 $GLOBALS['_beginTime'] = microtime(TRUE);
 // 记录内存初始使用
 define('MEMORY_LIMIT_ON',function_exists('memory_get_usage'));
